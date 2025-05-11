@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Cyber Scam Detector
 
 An intelligent application built with Python and Streamlit to analyze text, emails, and URLs for potential cyber scams and phishing attempts. This tool helps users identify common scam patterns and assess risks associated with suspicious content.
@@ -120,3 +121,7 @@ _(You can add screenshots of your application's UI here if you like. This makes 
 ---
 
 Feel free to contribute, report issues, or suggest improvements!
+=======
+# cyber-scam-detector
+Stay safe online! 🛡️ This Cyber Scam Detector analyzes suspicious messages, emails, and links to identify common scam patterns and assess potential risks. Built with Python &amp; Streamlit by Anoosha Qasim
+>>>>>>> c94f180729339ef4f3426271d8fe1c03a113f23f
