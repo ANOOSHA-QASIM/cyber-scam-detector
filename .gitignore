@@ -1,0 +1,31 @@
+# Virtual Environment
+myenv/
+venv/
+*.pyenv
+.python-version
+.env
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit specific (if any, usually not needed to ignore specific streamlit files)
+# .streamlit/ (Agar aap ismein secrets.toml ke ilawa kuch ignore karna chahein, warna rehne dein)
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
